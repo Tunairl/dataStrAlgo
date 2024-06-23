@@ -1,0 +1,14 @@
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\obj\Debug\net8.0\ExerciseBuildingAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\obj\Debug\net8.0\ExerciseBuildingAnArray.AssemblyInfoInputs.cache
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\obj\Debug\net8.0\ExerciseBuildingAnArray.AssemblyInfo.cs
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\obj\Debug\net8.0\ExerciseBuildingAnArray.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\bin\Debug\net8.0\ExerciseBuildingAnArray.exe
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\bin\Debug\net8.0\ExerciseBuildingAnArray.deps.json
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\bin\Debug\net8.0\ExerciseBuildingAnArray.runtimeconfig.json
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\bin\Debug\net8.0\ExerciseBuildingAnArray.dll
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\bin\Debug\net8.0\ExerciseBuildingAnArray.pdb
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\obj\Debug\net8.0\ExerciseBuildingAnArray.dll
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\obj\Debug\net8.0\refint\ExerciseBuildingAnArray.dll
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\obj\Debug\net8.0\ExerciseBuildingAnArray.pdb
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\obj\Debug\net8.0\ExerciseBuildingAnArray.genruntimeconfig.cache
+C:\Users\tuna_\source\repos\DataStrAlgo\Part1\Arrays\ExerciseBuildingAnArray\ExerciseBuildingAnArray\obj\Debug\net8.0\ref\ExerciseBuildingAnArray.dll
