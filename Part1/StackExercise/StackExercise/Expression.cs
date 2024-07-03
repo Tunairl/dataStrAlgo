@@ -39,15 +39,20 @@ class Expression
 
     private bool IsLeftBracket(char ch)
     {
+
         return leftBrackets.Contains(ch);
     }
 
     private bool IsRightBracket(char ch)
     {
+
         return rightBrackets.Contains(ch);
     }
     private bool BracketsMatch(char left, char right)
     {
+        // regex  çalış
+        // big(o)'ya göre değişebilir
+
         return (left == ')' && right != '(') ||
                (left == '}' && right != '{') ||
                (left == ']' && right != '[') || 
