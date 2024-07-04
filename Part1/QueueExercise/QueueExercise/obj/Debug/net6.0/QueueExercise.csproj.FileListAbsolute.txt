@@ -1,0 +1,15 @@
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\bin\Debug\net6.0\QueueExercise.exe
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\bin\Debug\net6.0\QueueExercise.deps.json
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\bin\Debug\net6.0\QueueExercise.runtimeconfig.json
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\bin\Debug\net6.0\QueueExercise.dll
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\bin\Debug\net6.0\QueueExercise.pdb
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\QueueExercise.csproj.AssemblyReference.cache
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\QueueExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\QueueExercise.AssemblyInfoInputs.cache
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\QueueExercise.AssemblyInfo.cs
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\QueueExercise.csproj.CoreCompileInputs.cache
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\QueueExercise.dll
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\refint\QueueExercise.dll
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\QueueExercise.pdb
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\QueueExercise.genruntimeconfig.cache
+C:\Users\CI0UKDG\source\repos\QueueExercise\QueueExercise\obj\Debug\net6.0\ref\QueueExercise.dll
