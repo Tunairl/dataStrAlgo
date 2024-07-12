@@ -2,24 +2,24 @@
 {
     static void Main(string[] args)
     {
-        PriorityQueue queue = new PriorityQueue();
-        queue.Add(5);
-        queue.Add(3);
-        queue.Add(6);
-        queue.Add(1);
-        queue.Add(4);
-        queue.Print();
+        Queue<int> q2 = new Queue<int>();
 
-        while (!queue.isEmpty())
+        q2.Enqueue(10);
+        q2.Enqueue(20);
+        q2.Enqueue(30);
+        q2.Enqueue(40);
+        q2.Enqueue(50);
+
+        QueueReverser.Reverse(q2, 3);
+
+        for (int i = 0; i < q2.Count; i++)
         {
-            Console.WriteLine(queue.Remove());
+            int val = q2.Peek();
+            Console.WriteLine(val);
+            q2.Enqueue(q2.Dequeue());
         }
-    }
-    public static void Reverse(Queue<int> queue)
-    {
-        PriorityQueue q = new PriorityQueue();
-        
-        
+
     }
 }
+    
 
