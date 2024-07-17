@@ -1,0 +1,15 @@
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\bin\Debug\net6.0\HashTableExercise.exe
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\bin\Debug\net6.0\HashTableExercise.deps.json
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\bin\Debug\net6.0\HashTableExercise.runtimeconfig.json
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\bin\Debug\net6.0\HashTableExercise.dll
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\bin\Debug\net6.0\HashTableExercise.pdb
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\HashTableExercise.csproj.AssemblyReference.cache
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\HashTableExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\HashTableExercise.AssemblyInfoInputs.cache
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\HashTableExercise.AssemblyInfo.cs
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\HashTableExercise.csproj.CoreCompileInputs.cache
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\HashTableExercise.dll
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\refint\HashTableExercise.dll
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\HashTableExercise.pdb
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\HashTableExercise.genruntimeconfig.cache
+C:\Users\CI0UKDG\source\repos\HashTableExercise\HashTableExercise\HashTableExercise\obj\Debug\net6.0\ref\HashTableExercise.dll
