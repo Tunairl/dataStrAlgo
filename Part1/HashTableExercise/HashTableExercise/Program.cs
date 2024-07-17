@@ -2,28 +2,19 @@
 {
     static void Main(string[] args)
     {
-        // Key: Employee Number (int)
-        // Value: Name (string)
+        HashSet<int> set = new HashSet<int>();
+        int[] numbers = { 1, 2, 3, 3, 2, 1, 4 };
+        foreach (var number in numbers)
+        {
+            set.Add(number);
+        }
 
-        Dictionary<int, string> dict = new Dictionary<int, string>();
-        dict.Add(1, "Tuna");
-        dict.Add(2, "Lily");
-        dict.Add(3, "Nora");
+        //Console.WriteLine(String.Join(",", set));
 
-        //foreach (var kvp in dict)
-        //{
-        //    Console.WriteLine("Key: {0}, Value: {1}", kvp.Key, kvp.Value);
-        //}
+        var finder = new CharFinder();
 
-        //var myKey = dict.FirstOrDefault(x => x.Value == "Lily").Key;
+        var ch = finder.FindFirstRepeatedChar("green apple");
+        Console.WriteLine(ch);
 
-        dict.ContainsKey(2); // O(1)
-        dict.ContainsValue("Nora"); // O(n)
-
-        //Console.WriteLine(myKey);
-
-        CharFinder finder = new CharFinder();
-
-        Console.WriteLine(finder.FindFirstNonRepeatingChar("aabb"));
     }
 }

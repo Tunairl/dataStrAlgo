@@ -22,4 +22,22 @@
         }
         return Char.MinValue;
     }
+
+    public char FindFirstRepeatedChar(string str)
+    {
+        var set = new HashSet<char>();
+        var chars = str.ToCharArray();
+
+        for (int i = 0; i < chars.Length; i++)
+        {
+            if (set.Contains(chars[i]))
+            {
+                return chars[i];
+            }
+
+            set.Add(chars[i]);
+            continue;
+        }
+        return Char.MinValue;
+    }
 }
